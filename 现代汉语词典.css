@@ -1,0 +1,268 @@
+
+html {
+    /* font-family: "思源宋体", "Source Han Serif SC", serif; */
+    font-family: system-ui,-apple-system,"SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
+    margin: 0 auto;
+    padding: 0;
+}
+
+/*词典开始和结尾 */
+main {
+    /* clear: both; */
+    color: #2d3b69;
+}
+
+span {
+    /* display: inline-block; */
+}
+
+/* 词典标题 */
+.title {
+    display: block;
+    font-weight: 500;
+    color: #2d3b69;
+    font-size: 2em;
+}
+
+/* 词典词条数字序号 */
+.num {
+    color: #4A8075;
+    padding-right: 5px;
+    font-weight: bold;
+}
+
+.er {
+    font-size: 0.75em;
+}
+
+span.bs {
+    margin-right: 6pt;
+    background-color: rgb(143, 248, 157);
+    border: 1px solid rgb(143, 248, 157);
+}
+
+/* 拼音 */
+.py {
+    margin-right: 6pt;
+    /* font-family: "思源宋体", "Source Han Serif SC", system-ui,-apple-system,"SF Pro", "Inter", sans-serif !important; */
+    font-family: system-ui,-apple-system,"SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif !important;
+    color: #2d3b69;
+    font-weight: 400;
+    /* font-size: 0.75em; */
+}
+
+.py::before {
+    content: "拼音";
+    color: #2d3b69;
+    margin-right: 0.5em;
+}
+
+span.jfy {
+    margin-right: 6pt;
+    background-color: rgb(248, 239, 216);
+    border: 1px solid (248, 239, 216);
+}
+
+a {
+    color: rgb(61, 150, 233);
+    text-decoration: underline;
+}
+
+u {
+    text-decoration: none;
+    border-bottom: 1px solid rgb(85, 108, 240);
+    margin: 0 1px;
+}
+
+p {
+    line-height: 1.5em;
+
+
+}
+
+x-key {
+    border-bottom: 2px dotted #942923;
+}
+
+.cd {
+    color: #942923;
+    font-size: 80%;
+    text-align: right
+}
+
+.traditional,
+.generalVariant,
+.unRecommended {
+    /* font-family: "思源宋体", "Source Han Serif SC", serif; */
+    font-family: system-ui,-apple-system,"SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
+    font-weight: 400;
+    color: #2d3b69;
+}
+
+.traditional::before,
+.traditional.outer::before,
+.generalVariant::before,
+.generalVariant.outer::before,
+.unRecommended::before {
+    color: #2d3b69;
+    margin-right: 0.5em;
+    text-decoration: underline;
+}
+
+.traditional::before {
+    content: "繁体";
+}
+
+.generalVariant.inner::before {
+    content: "《通用规范汉字表》中的异体字";
+}
+
+.generalVariant.outer::before {
+    content: "《通用规范汉字表》外的异体字";
+}
+
+.traditional.extended::before {
+    content: "繁体（另出字头）";
+}
+
+.generalVariant.inner.extended::before {
+    content: "《通用规范汉字表》中的异体字（另出字头）";
+}
+
+.generalVariant.outer.extended::before {
+    content: "《通用规范汉字表》外的异体字（另出字头）";
+}
+
+.unRecommended::before {
+    content: "非推荐词形";
+}
+
+
+/* 词性 */
+.lya {
+    background: #C04040;
+    color: #FFFFFF;
+    padding: 1px 2px 1px 2px;
+    border-radius: 3px;
+    font-family: system-ui,-apple-system,"SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
+    font-size: 90%;
+    margin: 0 4px 0 4px;
+}
+
+.lyb {
+    background: #7979FF;
+    color: #FFFFFF;
+    padding: 1px 2px 1px 2px;
+    border-radius: 3px;
+    font-family: system-ui,-apple-system,"SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
+    font-size: 90%;
+    margin: 0 4px 0 4px;
+}
+
+.lyc {
+    font-family: sans-serif;
+    font-size: 0.75em;
+    background: rgba(255, 255, 255, 0.5);
+    color: #C01A32;
+    border: 0.095em solid #C01A32;
+    border-radius: 0.6em;
+    padding: 0.05em 0.2em;
+    margin: 0 0.1em;
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 1.5em;
+}
+
+.lyd {
+    font-family: system-ui,-apple-system,"SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
+    font-size: 79%;
+    background: rgba(255, 255, 255, 0.5);
+    color: #4e51f7;
+    border: 0.095em solid #4e51f7;
+    border-radius: 0.55em;
+    padding: 0.05em 0.15em;
+    margin: 0 0.1em;
+    line-height: 1.2;
+}
+
+.lye {
+    margin: 0px auto 0px auto;
+    background-color: rgb(41, 160, 100);
+    color: white;
+    font-weight: bold;
+    padding: 1px 3px;
+    border-radius: 5px;
+    font-size: 80%;
+}
+
+.lyf {
+    background: #404080;
+    color: #FFFFFF;
+    padding: 0px 2px 0px 1px;
+    border-radius: 3px;
+    font-family: system-ui,-apple-system,"SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
+    font-size: 90%
+}
+
+.lyg {
+    background: #0daec4;
+    color: #FFFFFF;
+    padding: 0px 2px 0px 1px;
+    border-radius: 3px;
+    font-family: system-ui,-apple-system,"SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
+    font-size: 90%
+}
+
+.sya {
+    color: #6357e7;
+}
+
+.syb {
+    color: #554bc7;
+}
+
+.st {
+    /* color: ; */
+    margin-left: 10pt;
+}
+
+.hla {
+    color: #38a059;
+    margin: 0 1px;
+}
+
+.sma {
+    color: #30a394;
+    font-weight: normal;
+}
+
+/* 参考 */
+.smb {
+    color: rgb(79, 114, 228);
+    font-weight: normal;
+}
+
+/* 注意 block */
+.usage {
+    display: block;
+    margin: 1em;
+    padding: 10px 10px;
+    border-radius: 10px;
+    border-color: #30a394;
+    border-style: solid;
+    clear: both;
+}
+
+.usage-t {
+    display: table-cell;
+    margin: 0px auto 0px auto;
+    position: relative;
+    bottom: 1.5em;
+    /* z-index: 1; */
+    left: 0px;
+    background-color: #30a394;
+    color: white;
+    font-weight: bold;
+    padding: 2px 4px;
+    border-radius: 5px;
+}
