@@ -20,11 +20,12 @@
 
 ### 预览截图 | Preview Snapshots
 
-![IMG_5421](https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202203011442120.jpeg)
 
-![IMG_5422](https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202203011442126.jpeg)
+![IMG_5421](https://user-images.githubusercontent.com/16702370/156132744-e704fd84-1b8e-48d5-8de2-ac0dea30d3a4.jpeg)
 
-![IMG_5424](https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202203011442076.jpeg)
+![IMG_5422](https://user-images.githubusercontent.com/16702370/156132592-359c5896-5f59-4331-aea4-4ea29c147438.jpeg)
+
+![IMG_5424](https://user-images.githubusercontent.com/16702370/156132656-20d702e9-3b67-46f6-b45e-4bd84293b92e.jpeg)
 
 
 
