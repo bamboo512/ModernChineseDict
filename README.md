@@ -1,39 +1,38 @@
 # ModernChineseDict
 
-《现代汉语词典》第 7 版的 mdict/mdx 资源。
+简约、美观的《现代汉语词典》第 7 版 mdict/mdx 资源。
 
 ## 介绍 | Introduction
 
+《现代汉语词典》第 7 版的 mdict/mdx 资源，可以被用在 **欧路词典** 等软件，以便快速高效、舒适地查阅文字、词语。
 
+在看了 freemdict.com 论坛的 [Quantus](https://forum.freemdict.com/u/Quantus) 大佬的帖子 [现代汉语词典第7版-2022.02.02](https://forum.freemdict.com/t/topic/4445) 后，恰好我也对汉语言有着比较浓烈的兴趣，遂决定和 TA 一起完善这部尚且还存在问题的词典。
 
-在看了 freemdict.com 论坛的 [Quantus](https://forum.freemdict.com/u/Quantus) 的帖子 [现代汉语词典第7版-2022.02.02](https://forum.freemdict.com/t/topic/4445) 后，恰好我也对汉语言有着比较浓烈的兴趣，遂决定和 TA 一起完善这部尚且还存在问题的词典。此资源仅供学习和交流，请务必于下载试用后 24 小时内删除。若阁下觉得《现代汉语词典》很不错，也请尽可能地支持官方 App。
+此资源仅供学习和交流，请务必于下载试用后 24 小时内删除。若阁下觉得《现代汉语词典》很不错，也请尽可能地支持官方 App。
 
 官方 App 下载地址
 
-[iOS/iPad](https://apps.apple.com/cn/app/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8-%E4%B8%80%E9%83%A8%E4%B9%85%E4%BA%AB%E7%9B%9B%E8%AA%89%E7%9A%84%E8%A7%84%E8%8C%83%E6%80%A7%E8%AF%8D%E5%85%B8/id1330896529)        [Android](https://www.baidu.com/s?wd=现代汉语词典%20app&rsv_spt=1&rsv_iqid=0xa15bc0f100284206&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&oq=%25E7%258E%25B0%25E4%25BB%25A3%25E6%25B1%2589%25E8%25AF%25AD%25E8%25AF%258D%25E5%2585%25B8&rsv_btype=t&inputT=1665&rsv_t=4ed3WInyiVHfyLHQdrQ9UMUq1UkHCaoAiPCpSZ%2FnTDNiJhFc7Kwwf5AwgcFpxorEZdMX&rsv_sug3=37&rsv_sug1=11&rsv_sug7=100&rsv_pq=aef584900022b4f3&rsv_sug2=0&rsv_sug4=1717)
+[iOS/iPad](https://apps.apple.com/cn/app/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8-%E4%B8%80%E9%83%A8%E4%B9%85%E4%BA%AB%E7%9B%9B%E8%AA%89%E7%9A%84%E8%A7%84%E8%8C%83%E6%80%A7%E8%AF%8D%E5%85%B8/id1330896529)
 
-
-
-
+[Android](https://www.baidu.com/s?wd=现代汉语词典%20app&rsv_spt=1&rsv_iqid=0xa15bc0f100284206&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&oq=%25E7%258E%25B0%25E4%25BB%25A3%25E6%25B1%2589%25E8%25AF%25AD%25E8%25AF%258D%25E5%2585%25B8&rsv_btype=t&inputT=1665&rsv_t=4ed3WInyiVHfyLHQdrQ9UMUq1UkHCaoAiPCpSZ%2FnTDNiJhFc7Kwwf5AwgcFpxorEZdMX&rsv_sug3=37&rsv_sug1=11&rsv_sug7=100&rsv_pq=aef584900022b4f3&rsv_sug2=0&rsv_sug4=1717)
 
 
 
 ### 预览截图 | Preview Snapshots
 
-<img src="https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202202281917983.jpeg" alt="IMG_5407" style="zoom: 33%;" />
+![IMG_5421](https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202203011442120.jpeg)
 
+![IMG_5422](https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202203011442126.jpeg)
 
-
-<img src="https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202202281917991.jpeg" alt="IMG_5408" style="zoom:33%;" />
-
-
+![IMG_5424](https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202203011442076.jpeg)
 
 
 
 ## 贡献列表 | Contribution List
 
--   Quantus - for making, polishing, and revising dict.
--   Fibert Loyee（我，Me） - for beautifying and revising dict.
+-   商务印书馆 - 出版 《现代汉语词典》。
+-   Quantus - for making, polishing, and revising mdict.
+-   Fibert Loyee（我，Me） - for beautifying and revising mdict.
 -   欧路词典 - for providing pretty dict app.
 -   Adobe - for providing pretty font: **Source Han Serif**.
 -   ......
@@ -365,3 +364,11 @@
 -   「嗯」词条顺序改变，将有实际含义的词条移到首位。
 
 <img src="https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202202281906654.jpeg" alt="IMG_1807" style="zoom:33%;" />
+
+### 20220301 更新日志
+
+全面采用 **思源宋体** 作为主要显示字体。使用 **思源宋体** 显示后的字典将给人一种焕然一新、精致的感觉。
+
+新的字体在 iOS、iPadOS、macOS 上测试通过，但在 Android 上暂未生效，具体原因还在排查。
+
+ 
