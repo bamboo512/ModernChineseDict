@@ -106,7 +106,7 @@ x-key {
 }
 
 .traditional::before,
-.traditional.outer::before,
+.traditional.extended::before,
 .generalVariant::before,
 .generalVariant.outer::before,
 .unRecommended::before {
