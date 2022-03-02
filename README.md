@@ -2,30 +2,86 @@
 
 简约、美观的《现代汉语词典》第 7 版 mdict/mdx 资源。
 
+[toc]
+
 ## 介绍 | Introduction
 
-《现代汉语词典》第 7 版的 mdict/mdx 资源，可以被用在 **欧路词典** 等软件，以便快速高效、舒适地查阅文字、词语。
+重新设计的《现代汉语词典》第 7 版的 mdict/mdx 资源，可以被用在 **欧路词典** 等软件，以便快速高效、舒适地查阅文字、词语。
 
-在看了 freemdict.com 论坛的 [Quantus](https://forum.freemdict.com/u/Quantus) 大佬的帖子 [现代汉语词典第7版-2022.02.02](https://forum.freemdict.com/t/topic/4445) 后，恰好我也对汉语言有着比较浓烈的兴趣，遂决定和 TA 一起完善这部尚且还存在问题的词典。
-
-此资源仅供学习和交流，请务必于下载试用后 24 小时内删除。若阁下觉得《现代汉语词典》很不错，也请尽可能地支持官方 App。
-
-官方 App 下载地址
-
-[iOS/iPad](https://apps.apple.com/cn/app/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8-%E4%B8%80%E9%83%A8%E4%B9%85%E4%BA%AB%E7%9B%9B%E8%AA%89%E7%9A%84%E8%A7%84%E8%8C%83%E6%80%A7%E8%AF%8D%E5%85%B8/id1330896529)
-
-[Android](https://www.baidu.com/s?wd=现代汉语词典%20app&rsv_spt=1&rsv_iqid=0xa15bc0f100284206&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&oq=%25E7%258E%25B0%25E4%25BB%25A3%25E6%25B1%2589%25E8%25AF%25AD%25E8%25AF%258D%25E5%2585%25B8&rsv_btype=t&inputT=1665&rsv_t=4ed3WInyiVHfyLHQdrQ9UMUq1UkHCaoAiPCpSZ%2FnTDNiJhFc7Kwwf5AwgcFpxorEZdMX&rsv_sug3=37&rsv_sug1=11&rsv_sug7=100&rsv_pq=aef584900022b4f3&rsv_sug2=0&rsv_sug4=1717)
-
-
+>   请特别关注：此资源仅供学习和交流，禁止商用，请务必于下载试用后 24 小时内删除。若阁下觉得《现代汉语词典》很不错，也请尽可能地支持官方 App。《现代汉语词典》官方 App 下载地址：[iOS/iPad](https://apps.apple.com/cn/app/%E7%8E%B0%E4%BB%A3%E6%B1%89%E8%AF%AD%E8%AF%8D%E5%85%B8-%E4%B8%80%E9%83%A8%E4%B9%85%E4%BA%AB%E7%9B%9B%E8%AA%89%E7%9A%84%E8%A7%84%E8%8C%83%E6%80%A7%E8%AF%8D%E5%85%B8/id1330896529)，[Android](https://www.baidu.com/s?wd=现代汉语词典%20app&rsv_spt=1&rsv_iqid=0xa15bc0f100284206&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb&oq=%25E7%258E%25B0%25E4%25BB%25A3%25E6%25B1%2589%25E8%25AF%25AD%25E8%25AF%258D%25E5%2585%25B8&rsv_btype=t&inputT=1665&rsv_t=4ed3WInyiVHfyLHQdrQ9UMUq1UkHCaoAiPCpSZ%2FnTDNiJhFc7Kwwf5AwgcFpxorEZdMX&rsv_sug3=37&rsv_sug1=11&rsv_sug7=100&rsv_pq=aef584900022b4f3&rsv_sug2=0&rsv_sug4=1717)。
 
 ### 预览截图 | Preview Snapshots
 
+<img src=".images/202203021320529.jpeg" alt="IMG_5421" style="zoom: 25%;" />
 
-![IMG_5421](https://user-images.githubusercontent.com/16702370/156132744-e704fd84-1b8e-48d5-8de2-ac0dea30d3a4.jpeg)
+<img src=".images/156132656-20d702e9-3b67-46f6-b45e-4bd84293b92e.jpeg" alt="IMG_5424" style="zoom:25%;" />
 
-![IMG_5422](https://user-images.githubusercontent.com/16702370/156132592-359c5896-5f59-4331-aea4-4ea29c147438.jpeg)
 
-![IMG_5424](https://user-images.githubusercontent.com/16702370/156132656-20d702e9-3b67-46f6-b45e-4bd84293b92e.jpeg)
+
+在看了 freemdict.com 论坛的 [Quantus](https://forum.freemdict.com/u/Quantus) 大佬的帖子 [现代汉语词典第7版-2022.02.02](https://forum.freemdict.com/t/topic/4445) 后，恰好我也对汉语言有着比较浓烈的兴趣，遂决定和 TA 共同完善这部尚且还存在问题的词典。
+
+>   为什么要校正词典？
+>
+>   此词典最初是直接由纸质词典经过光学字符识别而来的，所以错误是难免的。
+>
+>   如果阁下发现了错误或者值得优化之处，请直接向此仓库提出问题（Open an Issue）以便我们能以最快的速度处理。
+
+### 关于美化样式、文件重构
+
+-   采用免费开源、精致美观的**思源宋体**。经过精心设计的宋体被用作大面积显示汉语言，赋予词典以独特的古典气息。
+
+-   采用全新色彩。好看的色彩是一切优秀排版的基石。经过全新设计的色彩赋予词典以新鲜的活力、舒适的观感。
+
+-   将 mdx（实质是 html 集合文件）中，位于拼音标签内部的繁体字移至外部，使排版更合理。
+
+-   ……
+
+### 关于校订词典
+
+-   校正大量错误的拼音。
+
+-   校正部分光学识别错误的文字。
+
+-   册除部分已从《现代汉语词典》第7版移除的词条。
+
+-   调整某些字词的不同词条顺序，使其重要内容优先显示，以减少使用者查阅时间。
+
+-   ……
+
+## 开发配置
+
+### 打包与解包
+
+>   ⚠️
+>
+>   你需要先使用 pip 安装 [mdict-utils](https://github.com/liuyug/mdict-utils) 才能进行以下操作。
+
+[mdict-utils](https://github.com/liuyug/mdict-utils) 安装命令：
+
+```Shell
+pip install mdict-utils
+```
+
+#### 解包到 mdx 文件夹
+
+```Shell
+mdict -x dict.mdx -d ./mdx
+```
+
+#### 打包到 dict.mdx
+
+```
+mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.html -a mdx/dict.mdx.txt dict.mdx
+```
+
+
+
+### 使用到的工具
+
+-   [mdict-utils](https://github.com/liuyug/mdict-utils) - 打包、解包 mdx 文件。
+-   VS Code - 编辑、处理文本与代码。
+
+
 
 
 
@@ -348,28 +404,49 @@
 
 -   却拼音错误
 
-<img src="https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202202281906639.jpeg" alt="IMG_1806" style="zoom:33%;" />
+<img src=".images/202202281906639.jpeg" alt="IMG_1806" style="zoom: 25%;" />
 
 -   修复：「醜」词条名称多了破折号、拼音实际显示的是其 **词性**。
 
-<img src="https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202202281906656.jpeg" alt="IMG_1803" style="zoom:33%;" />
+<img src=".images/202202281906656.jpeg" alt="IMG_1803" style="zoom: 25%;" />
 
 -   「地租」词条，「使用**看**」修改为「使用**者**」。
 
-<img src="https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202202281906621.jpeg" alt="IMG_1801" style="zoom:33%;" />
+<img src=".images/202202281906621.jpeg" alt="IMG_1801" style="zoom: 25%;" />
 
 -   「看」词条，义项序号部分错误的问题。
 
-<img src="https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202202281906651.jpeg" alt="IMG_1802" style="zoom: 33%;" />
+<img src=".images/202202281906651.jpeg" alt="IMG_1802" style="zoom: 25%;" />
 
 -   「嗯」词条顺序改变，将有实际含义的词条移到首位。
 
-<img src="https://csoh-1253475657.cos.ap-chengdu.myqcloud.com/202202281906654.jpeg" alt="IMG_1807" style="zoom:33%;" />
+<img src=".images/156299877-0e37610b-8844-4b30-8d52-b418fb357cae.png" alt="IMG_1807" style="zoom: 25%;" />
 
 ### 20220301 更新日志
 
 全面采用 **思源宋体** 作为主要显示字体。使用 **思源宋体** 显示后的字典将给人一种焕然一新、精致的感觉。
 
 新的字体在 iOS、iPadOS、macOS 上测试通过，但在 Android 上暂未生效，具体原因还在排查。
+
+
+
+### 20220302 更新日志
+
+感谢 freemdict 论坛用户 [择书库](https://forum.freemdict.com/u/择书库) 纠正拼音。
+
+更改如下：
+
+| **矰**   | **zèng**        | **zēng**        |
+| -------- | --------------- | --------------- |
+| 卓识     | zhuō shí        | zhuó shí        |
+| 卓异     | zhuō yì         | zhuó yì         |
+| 夹肝     | jiá gān         | jiā gān         |
+| 节欲     | jiē yù          | jié yù          |
+| 惊世骇俗 | jīn shì hài sú  | jīng shì hài sú |
+| 看摊     | kàn tān         | kān tān         |
+| 折受     | zhé shou        | zhé shòu        |
+| 摔耙子   | shuā pá zi      | shuāi pá zi     |
+| 涮锅子   | shuànɡ ɡuō zi   | shuàn ɡuō zi    |
+| 肖像权   | xiāo xiàng quán | xiào xiàng quán |
 
  
