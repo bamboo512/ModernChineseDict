@@ -464,9 +464,9 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 ### 20220302 更新日志
 
-1.   感谢 freemdict 论坛用户 [择书库](https://forum.freemdict.com/u/择书库) 纠正拼音。
+>   感谢 freemdict 论坛用户 [择书库](https://forum.freemdict.com/u/择书库)、
 
-​	更改如下：
+1.   纠正拼音。
 
 | **矰**   | **zèng**        | **zēng**        |
 | -------- | --------------- | --------------- |
@@ -480,6 +480,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 | 摔耙子   | shuā pá zi      | shuāi pá zi     |
 | 涮锅子   | shuànɡ ɡuō zi   | shuàn ɡuō zi    |
 | 肖像权   | xiāo xiàng quán | xiào xiàng quán |
+| 症结     | zhèngjie        | zhēngjie        |
 
 2.   去除 **词头** 儿化音的 HTML 标签 span 格式
      -   可可儿的
@@ -501,8 +502,26 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
      -   靠边儿站
      -   高跟儿鞋
 3.   删除词条
-     1.   𫘧
-     2.   𫘧耳
-     3.   𱅋
-     4.   𣋆
-4.   
+     -   𫘧
+     -   𫘧耳
+     -   𱅋
+     -   𣋆
+4.   拼音缺失、拼音与释义未分离等问题。感谢 freemdict 论坛用户 [择书库](https://forum.freemdict.com/u/择书库) 指出！
+     -   免费午餐 拼音未在相应标签内
+     -   感觉神经 拼音与释义未分离
+     -   孛 拼音与释义未分离
+     -   芄 缺失拼音 wán
+     -   狈 缺失拼音 bèi
+     -   苟
+     -   狈
+     -   蝴蝶
+     -   𪱷
+     -   糕
+     -   娘
+     -   拐
+     -   废
+     -   挂
+     -   斑白
+     -   酬
+     -   𮣳
+5.   解决「草字²」词条标题错误：草字..（一大堆代码）...2 `->` 草字²。感谢 freemdict 论坛用户 [择书库](https://forum.freemdict.com/u/择书库) 指出！
