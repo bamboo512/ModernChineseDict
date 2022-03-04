@@ -298,3 +298,21 @@ x-key {
     padding: 2px 4px;
     border-radius: 5px;
 }
+
+.test {
+    justify-content: space-around;
+    width: 400
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+p.title {
+    font-size: 18px;
+    font-weight: bolder;
+}

@@ -525,3 +525,43 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
      -   酬
      -   𮣳
 5.   解决「草字²」词条标题错误：草字..（一大堆代码）...2 `->` 草字²。感谢 freemdict 论坛用户 [择书库](https://forum.freemdict.com/u/择书库) 指出！
+
+
+
+#### 20220304
+
+1.   勘误。感谢 [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) 指出。
+     ![image](images/07d5a746ae3ba9d18a3cba8e1cd5954b2d470050.png)
+     1要上标，uv 当为改成带圈①②。主词条核hú无误。
+     ![image](images/6e08a184dc89f8c487761eb296ba345192b39ec4.png)
+     蓝中带黑的颜色当为蓝中略带黑的颜色。
+     ![image](images/5b0624e4b7fbee2006e30e9e0713724d43861c08.png)
+     进出当为迸出。
+
+2.   存在部分 div、span 未关闭。感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
+
+     ```
+     div
+     海况
+     风级
+     不
+     啊
+     
+     
+     <span>
+     斯诺克
+     桑拿
+     贴士
+     cia
+     K粉
+     PVC
+     VCD
+     
+     </span>
+     泥塑木雕
+     K歌
+     SIM卡
+     TMD
+     ```
+
+3.   表格显示错位。解决方法：删除样式 `style="float:left"`。感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
