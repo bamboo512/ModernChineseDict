@@ -98,11 +98,24 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 ## 贡献列表 | Contribution List
 
 -   商务印书馆 - 出版 《现代汉语词典》。
+
 -   Quantus - for making, polishing, and revising mdict.
--   Fibert Loyee（我，Me） - for beautifying and revising mdict.
+
+-   Fibert Loyee (Me) - for beautifying and revising mdict.
+
 -   欧路词典 - for providing pretty dict app.
+
 -   Adobe - for providing pretty font: **Source Han Serif**.
--   ......
+
+-   天珩字库 - 提供出色的大字符集简体中文字体：天珩标宋。
+
+-   [jcz777](https://forum.freemdict.com/u/jcz777) - 帮助完善、校正字典
+
+-   [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) - 帮助完善、校正字典。
+
+-   [择书库](https://forum.freemdict.com/u/%E6%8B%A9%E4%B9%A6%E5%BA%93) - 帮助完善、校正字典。
+
+    
 
 ## 更新记录 | Update Logs
 
@@ -231,7 +244,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 -   [x] 屹㟷(删除全条)
 -   [x] 圪垯 (删除“适用于以上义项也作圪塔、屹㟷。”)
 -   [x] 删除“㬊”（Hua4n），仅保留 Hua3n 声。
--   [x] 删除“䇲”(同“策”。)的整个词条，只保留 jia1 这个词条。
+-   [x] 删除“䇲”(同“策”)的整个词条，只保留 jia1 这个词条。
 -   [x] 删除“俛”fǔ 读音的整个词条。
 -   [x] 隣
 -   [x] 的士 删除 di2shi4 这个读音的词条，仅保留 di1shi4 读音的词条。
@@ -565,3 +578,19 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
      ```
 
 3.   表格显示错位。解决方法：删除样式 `style="float:left"`。感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
+
+#### 20220305
+
+1.   修正词条错误
+
+     -   美2：「美圆」 -> 「美元」
+
+     -   胡萝卜：删除在「肉质，有紫红」之间的逗号。
+
+         ![35654789-0FFE-4875-AFFC-DD084025A314_4_5005_c](images/35654789-0FFE-4875-AFFC-DD084025A314_4_5005_c.jpeg)
+
+         
+
+2.   更新 README，添加部分参与贡献用户到贡献列表。
+
+3.   删除部分重复引用。感谢 [jcz777](https://forum.freemdict.com/u/jcz777)提出问题并提供解决方案！
