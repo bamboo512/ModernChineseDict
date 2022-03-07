@@ -115,6 +115,8 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 -   [择书库](https://forum.freemdict.com/u/%E6%8B%A9%E4%B9%A6%E5%BA%93) - 帮助完善、校正字典。
 
+-   [shaoshi](https://forum.freemdict.com/u/shaoshi) - 帮助完善、校正字典。
+
     
 
 ## 更新记录 | Update Logs
@@ -489,7 +491,6 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 | 节欲     | jiē yù          | jié yù          |
 | 惊世骇俗 | jīn shì hài sú  | jīng shì hài sú |
 | 看摊     | kàn tān         | kān tān         |
-| 折受     | zhé shou        | zhé shòu        |
 | 摔耙子   | shuā pá zi      | shuāi pá zi     |
 | 涮锅子   | shuànɡ ɡuō zi   | shuàn ɡuō zi    |
 | 肖像权   | xiāo xiàng quán | xiào xiàng quán |
@@ -579,7 +580,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 3.   表格显示错位。解决方法：删除样式 `style="float:left"`。感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
 
-#### 20220305
+#### 20220307
 
 1.   修正词条错误
 
@@ -589,7 +590,11 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
          ![35654789-0FFE-4875-AFFC-DD084025A314_4_5005_c](images/35654789-0FFE-4875-AFFC-DD084025A314_4_5005_c.jpeg)
 
-         
+     -   惊世震俗：`jīnshì-zhènsú` -> `jīngshì-zhènsú`    感谢 [shaoshi](https://forum.freemdict.com/u/shaoshi) 指出。
+
+     -   缯（古代对丝织品的统称）：`zèng` -> `zēng   `    感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
+
+     -   若³：上标 3 -> 2。感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
 
 2.   更新 README，添加部分参与贡献用户到贡献列表。
 
