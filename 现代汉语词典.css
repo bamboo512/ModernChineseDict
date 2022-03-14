@@ -1,35 +1,39 @@
 @font-face {
     unicode-range: u+0000-FFFF;
-    font-family: "自定义字体";
+    font-family: "思源黑体 CN VF";
     font-weight: 100 1000;
-    src: url(font.otf);
-
+    src: url(SourceHanSerifCN-VF.ttf);
 }
 
 /* 扩展区字符集字体，防止极生僻字显示方块 */
-/* multiple values
-    限定此字体仅可被用作显示 Ext.B、Ext.C、Ext.D、Ext.E 区的字符。
-     */
 @font-face {
-    font-family: "CJK Ext.B C D E 字体-1";
+    font-family: "TH-Sung-TP0";
     src: url(TH-Sung-TP0.ttf);
     unicode-range: U+20000–2A6D6, U+2A700–2B734, U+2B740–2B81D, U+2B820–2CEA1;
+    /* 使用 unicode-range
+    限定此字体仅可被用作显示
+    Ext.B、Ext.C、Ext.D、Ext.E 区的字符。
+     */
 }
 
 @font-face {
-    font-family: "CJK Ext.B C D E 字体-2";
+    font-family: "TH-Sung-TP2";
     src: url(TH-Sung-TP2.ttf);
     unicode-range: U+20000–2A6D6, U+2A700–2B734, U+2B740–2B81D, U+2B820–2CEA1;
+    /* 使用 unicode-range
+    限定此字体仅可被用作显示
+    Ext.B、Ext.C、Ext.D、Ext.E 区的字符。
+     */
 }
 
-/* @font-face {
-    font-family: "CJK Ext.B C D E 字体-16";
-    src: url(TH-Khaai-TP16.ttf);
-    unicode-range: U+20000–2A6D6, U+2A700–2B734, U+2B740–2B81D, U+2B820–2CEA1;
-} */
+/* 甲骨文 */
+@font-face {
+    font-family: "方正甲骨文";
+    src: url(FZJiaGW.ttf);
+}
 
 html {
-    font-family: "自定义字体", "CJK Ext.B C D E 字体-1", "CJK Ext.B C D E 字体-2", "思源宋体 VF", "思源宋体", system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
+    font-family: "思源黑体 CN VF", "思源黑体 CN", "思源宋体 VF", "思源宋体", "TH-Sung-TP0", "TH-Sung-TP2", system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
     margin: 0 auto;
     padding: 0;
 }
@@ -75,7 +79,7 @@ span.bs {
 .py {
     margin-right: 6pt;
 
-    font-family: "自定义字体", "思源宋体 VF", "思源宋体", system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif !important;
+    font-family: "思源黑体 CN VF", "思源黑体 CN", "思源宋体 VF", "思源宋体", "TH-Sung-TP0", "TH-Sung-TP2", system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif !important;
     color: #2d3b69;
     font-weight: 400;
     font-variation-settings: 'wght'400;
@@ -123,7 +127,7 @@ x-key {
 .traditional,
 .generalVariant,
 .unRecommended {
-    font-family: "自定义字体", "CJK Ext.B C D E 字体-1", "CJK Ext.B C D E 字体-2", "思源宋体 VF", "思源宋体", system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
+    font-family: "思源黑体 CN VF", "思源黑体 CN", "思源宋体 VF", "思源宋体", "TH-Sung-TP0", "TH-Sung-TP2", system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
     font-weight: 400;
     font-variation-settings: 'wght'400;
     color: #2d3b69;
@@ -136,7 +140,7 @@ x-key {
 .unRecommended::before {
     color: #2d3b69;
     margin-right: 0.5em;
-    text-decoration: underline;
+    /* text-decoration: underline; */
     font-family: system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", sans-serif;
 }
 
@@ -175,7 +179,7 @@ x-key {
     color: #FFFFFF;
     padding: 1px 2px 1px 2px;
     border-radius: 3px;
-    font-family: system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", "CJK Ext.B C D E 字体-1", "CJK Ext.B C D E 字体-2", sans-serif !important;
+    font-family: system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", "TH-Sung-TP0", "TH-Sung-TP2", sans-serif !important;
     font-size: 90%;
     margin: 0 4px 0 4px;
 }
@@ -185,7 +189,7 @@ x-key {
     color: #FFFFFF;
     padding: 1px 2px 1px 2px;
     border-radius: 3px;
-    font-family: system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", "CJK Ext.B C D E 字体", "CJK Ext.B C D E 字体-2", sans-serif !important;
+    font-family: system-ui, -apple-system, "SF Pro", "Inter", "Google Sans Text", "Segoe UI Variable Display", "苹方-简", "思源黑体", "Noto Sans SC", "CJK Ext.B C D E 字体", "TH-Sung-TP2", sans-serif !important;
     font-size: 90%;
     margin: 0 4px 0 4px;
 }
@@ -302,6 +306,11 @@ x-key {
 .test {
     justify-content: space-around;
     width: 400
+}
+
+/* 甲骨文字体 */
+.oracle {
+    font-family: "方正甲骨文" !important;
 }
 
 table,

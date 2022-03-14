@@ -599,3 +599,8 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 2.   更新 README，添加部分参与贡献用户到贡献列表。
 
 3.   删除部分重复引用。感谢 [jcz777](https://forum.freemdict.com/u/jcz777)提出问题并提供解决方案！
+
+#### 20220314
+
+1.   修正词条「含糊」：`~其辞` -> `~其词`   感谢 [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) 指出。
+2.   添加对 **甲骨文** 的支持：使用可免费商用的「方正甲骨文」。 感谢 [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) 指出。
