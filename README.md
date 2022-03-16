@@ -585,22 +585,21 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 1.   修正词条错误
 
      -   美2：「美圆」 -> 「美元」
-
-     -   胡萝卜：删除在「肉质，有紫红」之间的逗号。
-
-         ![35654789-0FFE-4875-AFFC-DD084025A314_4_5005_c](images/35654789-0FFE-4875-AFFC-DD084025A314_4_5005_c.jpeg)
-
-     -   惊世震俗：`jīnshì-zhènsú` -> `jīngshì-zhènsú`    感谢 [shaoshi](https://forum.freemdict.com/u/shaoshi) 指出。
-
+-   惊世震俗：`jīnshì-zhènsú` -> `jīngshì-zhènsú`    感谢 [shaoshi](https://forum.freemdict.com/u/shaoshi) 指出。
      -   缯（古代对丝织品的统称）：`zèng` -> `zēng   `    感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
-
-     -   若³：上标 3 -> 2。感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
-
+-   若³：上标 3 -> 2。感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
 2.   更新 README，添加部分参与贡献用户到贡献列表。
-
 3.   删除部分重复引用。感谢 [jcz777](https://forum.freemdict.com/u/jcz777)提出问题并提供解决方案！
 
 #### 20220314
 
 1.   修正词条「含糊」：`~其辞` -> `~其词`   感谢 [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) 指出。
 2.   添加对 **甲骨文** 的支持：使用可免费商用的「方正甲骨文」。 感谢 [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) 指出。
+
+#### 20220316
+
+修正词条错误
+-   病恹恹：`精神委靡` -> `精神萎靡`
+-   松松垮垮：`擦条` -> `檩条`
+-   呵欠：`hē·qiàn` -> `hē·qian`
+-   胡萝卜：`肉质有` -> `肉质，有`
