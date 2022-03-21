@@ -64,7 +64,7 @@
 
 >   ⚠️
 >
->   你需要先使用 pip 安装 [mdict-utils](https://github.com/liuyug/mdict-utils) 才能进行以下操作。
+>   你需要先在电脑预装 Python 3+，并使用 pip 包管理器安装 [mdict-utils](https://github.com/liuyug/mdict-utils) 才能进行以下操作。
 
 [mdict-utils](https://github.com/liuyug/mdict-utils) 安装命令：
 
@@ -90,8 +90,6 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 -   [mdict-utils](https://github.com/liuyug/mdict-utils) - 打包、解包 mdx 文件。
 -   VS Code - 编辑、处理文本与代码。
-
-
 
 
 
@@ -606,7 +604,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 #### 20220317
 
-修正部分繁体错误
+修正部分繁体错误。感谢 [Mastameta](https://forum.freemdict.com/u/Mastameta) 指出。
 
 -   [x] 邻：异体 `隣` F9F1 是位于 Unicode 私有区的字符，应该被弃用，采用字形完全相同的 `隣` 96A3。
 
