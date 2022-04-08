@@ -120,7 +120,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 ## 更新记录 | Update Logs
 
 <details>
-<summary>### 20220227 更新日志</summary>
+<summary>20220227</summary>
 
 ### 删除词条
 
@@ -446,30 +446,16 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 </details>
 
 <details>
-
-<summary>### 20220228 更新日志</summary>
-
-### 词条内容错误与修正
-
+<summary>20220228</summary>
 -   却拼音错误
-
-<img src="images/202202281906639.jpeg" alt="IMG_1806" style="zoom: 25%;" />
 
 -   修复：「醜」词条名称多了破折号、拼音实际显示的是其 **词性**。
 
-<img src="images/202202281906656.jpeg" alt="IMG_1803" style="zoom: 25%;" />
-
 -   「地租」词条，「使用**看**」修改为「使用**者**」。
-
-<img src="images/202202281906621.jpeg" alt="IMG_1801" style="zoom: 25%;" />
 
 -   「看」词条，义项序号部分错误的问题。
 
-<img src="images/202202281906651.jpeg" alt="IMG_1802" style="zoom: 25%;" />
-
 -   「嗯」词条顺序改变，将有实际含义的词条移到首位。
-
-<img src="images/156299877-0e37610b-8844-4b30-8d52-b418fb357cae.png" alt="IMG_1807" style="zoom: 25%;" />
 
 
 
@@ -477,17 +463,17 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 <details>
 
-<sumary>### 20220301 更新日志</summary>
+<sumary>20220301</summary>
 
 全面采用 **思源宋体** 作为主要显示字体。使用 **思源宋体** 显示后的字典将给人一种焕然一新、精致的感觉。
 
 </details>
 
 <details>
-
-<sumary>### 20220302 更新日志</summary>
+<sumary>20220302</summary>
 
 >   感谢 freemdict 论坛用户 [择书库](https://forum.freemdict.com/u/择书库)
+
 
 1.   纠正拼音。
 
@@ -551,8 +537,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 </details>
 
 <details>
-
-<summary>### 20220304</summary>
+<summary>20220304</summary>
 
 1.   勘误。感谢 [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) 指出。
      ![image](images/07d5a746ae3ba9d18a3cba8e1cd5954b2d470050.png)
@@ -564,7 +549,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 2.   存在部分 div、span 未关闭。感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
 
-     ```
+     
      div
      海况
      风级
@@ -586,15 +571,15 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
      K歌
      SIM卡
      TMD
-     ```
+
 
 3.   表格显示错位。解决方法：删除样式 `style="float:left"`。感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
 
 </details>
 
-<details>
 
-<summary>### 20220307</summary>
+<details>
+<summary>20220307</summary>
 
 1.   修正词条错误
 
@@ -609,7 +594,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 <details>
 
-<summary>### 20220314</summary>
+<summary>20220314</summary>
 
 1.   修正词条「含糊」：`~其辞` -> `~其词`   感谢 [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) 指出。
 2.   添加对 **甲骨文** 的支持：使用可免费商用的「方正甲骨文」。 感谢 [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) 指出。
@@ -617,7 +602,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 <details>
 
-<summary>### 20220316</summary>
+<summary>20220316</summary>
 
 修正词条错误
 -   病恹恹：`精神委靡` -> `精神萎靡`    感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出。
@@ -627,7 +612,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 </details>
 
 <details>
-<summary>### 20220317</summary>
+<summary>20220317</summary>
 
 修正部分繁体错误。感谢 [Mastameta](https://forum.freemdict.com/u/Mastameta) 指出。
 
@@ -688,7 +673,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 </details>
 
 <details>
-<summary>### 20220321</summary>
+<summary>20220321</summary>
 
 1.   修正部分词头含有儿话音的，显示不必要的 HTML 标签的问题。感谢 [顺其自然](https://forum.freemdict.com/u/顺其自然) 指出。
 2.   对于「象」，修正拼音。感谢 [独行瞏瞏](https://forum.freemdict.com/u/独行瞏瞏) 指出。
@@ -697,7 +682,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 </details>
 
 <details>
-<summary>### 20220323</summary>
+<summary>20220323</summary>
 
 1.   「哈雷彗星」：`halei` ->`Halei`
 
@@ -715,7 +700,7 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 </details>
 
 <details>
-<summary>### 20220326 万分感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出错误！</summary>
+<summary>20220326 万分感谢 [jcz777](https://forum.freemdict.com/u/jcz777) 指出错误！</summary>
 [![未命名3](images/eccc8fc7ea0bafaec24ad40bf735fc3d0ebd8a2f_2_690x387.jpeg)未命名3819×460 153 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/c/eccc8fc7ea0bafaec24ad40bf735fc3d0ebd8a2f.jpeg)
 
 ![刊刻](images/1bc4a433f8ee6f06e5f62fa98e2a48e8a765cdaf.jpeg)
@@ -835,8 +820,6 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 [![克星](images/0168963e017ed0023f73c268366789b26e3ac3f1_2_690x298.jpeg)克星1044×452 216 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/0/1/0168963e017ed0023f73c268366789b26e3ac3f1.jpeg)
 
-
-
 [![五内](images/2b7827765b9521d3112b31335b7377b730aee798_2_690x190.jpeg)五内802×221 67.4 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/2/b/2b7827765b9521d3112b31335b7377b730aee798.jpeg)
 
 
@@ -847,22 +830,483 @@ mdict --title mdx/dict.mdx.title.html --description mdx/dict.mdx.description.htm
 
 [![五加](images/5391ab5aeb0184d1d79f99bb34111572d10e9e4b_2_690x191.jpeg)五加1053×292 132 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/5/3/5391ab5aeb0184d1d79f99bb34111572d10e9e4b.jpeg)
 
-
-
 [![五大三粗](images/ddd822ba4e3c3f83de5192e1e5f4b714e413ac5d_2_690x220.jpeg)五大三粗897×286 116 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/d/d/ddd822ba4e3c3f83de5192e1e5f4b714e413ac5d.jpeg)
-
-
 
 [![五星红旗](images/318b929907f9f0aacf2458e9b7e3aea8c972f816_2_690x231.jpeg)五星红旗1051×353 174 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/3/1/318b929907f9f0aacf2458e9b7e3aea8c972f816.jpeg)
 
-
-
 [![五行](images/ced526b4594404dd0012db5b047d3e7d04e1e533_2_690x258.jpeg)五行1062×398 210 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/c/e/ced526b4594404dd0012db5b047d3e7d04e1e533.jpeg)
-
-
 
 [![五谷](images/ece81688d2d8d65ab2f1e811cd43644d00d2a9be_2_690x200.jpeg)五谷927×270 112 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/c/ece81688d2d8d65ab2f1e811cd43644d00d2a9be.jpeg)
 
 [![51](images/e44afc595d33392ee9787ec1a209656289eb89f7_2_690x319.jpeg)511049×486 282 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/4/e44afc595d33392ee9787ec1a209656289eb89f7.jpeg)
 
 </details>
+
+
+
+<details>
+    <summary>20220408：万分感谢 jcz777、择书库 指出错误！</summary>
+
+#### 拼音错误
+
+|          |                      |                          |
+| :------- | :------------------- | :----------------------- |
+| 蔽塞     | bè sè                | **bì** sè                |
+| 兵强马壮 | bíng qiáng mǎ zhuàng | **bīng** qiáng mǎ zhuàng |
+| 穷原竟委 | qiánɡ yuán jìnɡ wěi  | **qióng** yuán jìng wěi  |
+| 衰微     | shuā wēi             | **shuāi** wēi            |
+| 审判长   | shǎn pàn zhǎnɡ       | **shěn** pàn zhǎng       |
+| 同甘共苦 | tón ɡān ɡònɡ kǔ      | **tóng** gān gòng kǔ     |
+| 通过     | tōn ɡuò              | **tōng** guò             |
+| 魍魉     | wǎnɡ lǎnɡ            | wǎng **liǎng**           |
+| 挺括     | tǐng guā             | tǐng **kuò**             |
+
+
+
+#### 其它
+
+注意啦！图多杀猫！
+
+![馊](images/57665ce6b9231674dbee3293018b0b7fbec2a975.jpeg)
+![饼](images/b80b34af3497027764e6a74fef80c9b42c3a6d8a.jpeg)
+
+[![馆](images/2204c6e8847aff65a4c43deefcd434c6a1fccde6_2_671x499.jpeg)馆817×608 237 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/2/2/2204c6e8847aff65a4c43deefcd434c6a1fccde6.jpeg)
+
+
+
+[![却](images/6ba1480b758266caf89e5be57a647d24e0457a63_2_585x500.jpeg)却616×526 156 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/6/b/6ba1480b758266caf89e5be57a647d24e0457a63.jpeg)
+
+
+
+[![食管](images/f0be851ecb3c728173815fda02e0892c88688e8e_2_690x200.jpeg)食管1051×305 144 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/f/0/f0be851ecb3c728173815fda02e0892c88688e8e.jpeg)
+
+
+
+[![食荚豌豆](images/4b89d2e4d064752b02322dd08bdc0806eec67e83_2_690x191.jpeg)食荚豌豆936×260 119 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/4/b/4b89d2e4d064752b02322dd08bdc0806eec67e83.jpeg)
+
+
+
+[![食品](images/7f10e01c646f80b5541c300b672bf952a50549c5_2_690x233.jpeg)食品730×247 80.3 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/7/f/7f10e01c646f80b5541c300b672bf952a50549c5.jpeg)
+
+
+
+[![食甚](images/bf5431ce05c1be3eeb453555302546c4707c9459_2_690x316.jpeg)食甚1066×489 274 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/b/f/bf5431ce05c1be3eeb453555302546c4707c9459.jpeg)
+
+
+
+[![食物中毒](images/bd92df925c42e17cd885d0131c457fffec9ad4d4_2_690x190.jpeg)食物中毒967×267 127 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/b/d/bd92df925c42e17cd885d0131c457fffec9ad4d4.jpeg)
+
+
+
+[![食性](images/f071e13c84b217f6c1721b215e1d43362c76a89f_2_690x297.jpeg)食性997×430 190 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/f/0/f071e13c84b217f6c1721b215e1d43362c76a89f.jpeg)
+
+
+![馔](images/a43dd3dec10f7a89ceaf1e1eaf9d152f2a4f3e93.jpeg)
+
+
+
+
+
+[![魔术](images/091542bdb5d2c50c81b0d5c47439d5cbcdd7ad0b_2_690x225.jpeg)魔术1028×336 148 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/0/9/091542bdb5d2c50c81b0d5c47439d5cbcdd7ad0b.jpeg)
+
+
+
+[![高粱](images/cf6568e3b0f6dd340c0cdbd384dd90a4c6d3c940_2_690x209.jpeg)高粱888×269 94.1 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/c/f/cf6568e3b0f6dd340c0cdbd384dd90a4c6d3c940.jpeg)
+
+
+
+[![黄帝](images/5f03da4e753a2b047359b0e101f98fa4183c9454_2_690x184.jpeg)黄帝1061×284 139 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/5/f/5f03da4e753a2b047359b0e101f98fa4183c9454.jpeg)
+
+
+
+[![黄热病](images/e39c886f9f474f1db6f46ee91299fa84579ede17_2_690x212.jpeg)黄热病1050×324 168 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/3/e39c886f9f474f1db6f46ee91299fa84579ede17.jpeg)
+
+
+![麻醉药](images/588ba5258b88d6ca487870f0d752635c8b585b1e.jpeg)
+
+[![麦季](images/8d9fa3223b096d01648f53e8279239106ec3e003_2_690x228.jpeg)麦季716×237 74.1 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/8/d/8d9fa3223b096d01648f53e8279239106ec3e003.jpeg)
+
+
+
+[![麦芽糖](images/16dff6d1cf216a6e0b1b08b49277c03e90270be5_2_690x207.jpeg)麦芽糖1058×318 138 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/1/6/16dff6d1cf216a6e0b1b08b49277c03e90270be5.jpeg)
+
+
+
+PS:今天论坛怎么了？
+啊~~我只能换浏览器了
+
+5
+
+
+
+回复
+
+
+
+
+
+[![img](images/90.png)](https://forum.freemdict.com/u/jcz777)
+
+
+
+**[jcz777](https://forum.freemdict.com/u/jcz777)**
+
+73
+
+12 天
+
+
+
+图多杀猫！
+
+[![黑茶](images/a95bcbe716a9bb31a5cac64348da31f025c69bbc_2_690x265.jpeg)黑茶932×359 180 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/a/9/a95bcbe716a9bb31a5cac64348da31f025c69bbc.jpeg)
+
+
+
+[![鼻韵母](images/daacd2996ea6ae82b074bcc5e8007b0c91d320df_2_690x219.jpeg)鼻韵母910×289 109 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/d/a/daacd2996ea6ae82b074bcc5e8007b0c91d320df.jpeg)
+
+
+![鼻祖](images/5a11d39f4af0211b4fae93aabea682271c327a1f.jpeg)
+
+[![齿](images/3fc87f6ea2e168dd11530af91ab50de8732a9dde_2_641x500.jpeg)齿713×556 177 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/3/f/3fc87f6ea2e168dd11530af91ab50de8732a9dde.jpeg)
+
+
+
+[![鼎](images/f7ea311c6db456cc808337074bb45140a2d23105_2_603x500.jpeg)鼎704×583 164 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/f/7/f7ea311c6db456cc808337074bb45140a2d23105.jpeg)
+
+
+![鼎沸](images/fb088012cd57b46036cd3e2b3890d682f4d9da67.jpeg)
+![冬](images/f3e5c9f1d9c6bdf7487883db170bd41fee2cbb88.jpeg)
+
+[![鼓噪](images/24363973064477ab99a727f05e6fd08f0397b01b_2_690x188.jpeg)鼓噪709×194 66.1 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/2/4/24363973064477ab99a727f05e6fd08f0397b01b.jpeg)
+
+
+
+[![龟缩](images/ba5efadf148402c7997f9fbcad6e87cea6951198_2_690x208.jpeg)龟缩709×214 84.5 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/b/a/ba5efadf148402c7997f9fbcad6e87cea6951198.jpeg)
+
+
+
+[![黑](images/5363c24bc9ce036c904dc1c7fe8b42fb86efb3b6_2_690x496.jpeg)黑829×597 252 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/5/3/5363c24bc9ce036c904dc1c7fe8b42fb86efb3b6.jpeg)
+
+
+
+[![黄菜](images/19aee0435839971fa6142d0a7076dfabc9cfcc10_2_690x215.jpeg)黄菜710×222 82.2 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/1/9/19aee0435839971fa6142d0a7076dfabc9cfcc10.jpeg)
+
+
+
+[![黄龙](images/4cfa41c4a6a34601fc36a1dbed9c8586f830b103_2_690x226.jpeg)黄龙1053×345 161 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/4/c/4cfa41c4a6a34601fc36a1dbed9c8586f830b103.jpeg)
+
+
+
+[![黑乎乎](images/01391ffd47399bc74c4d45f268009a63fb15e7be_2_690x417.jpeg)黑乎乎797×482 205 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/0/1/01391ffd47399bc74c4d45f268009a63fb15e7be.jpeg)
+
+
+
+[![黑名单](images/9584683740e1a59cbdd24117f7dd123a31d8554c_2_690x294.jpeg)黑名单898×383 165 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/9/5/9584683740e1a59cbdd24117f7dd123a31d8554c.jpeg)
+
+
+
+[![黑热病](images/1c7a41a2a31d0a8ffeaa696018f72fa83798449a_2_690x160.jpeg)黑热病1069×249 120 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/1/c/1c7a41a2a31d0a8ffeaa696018f72fa83798449a.jpeg)
+
+
+
+[![黑头](images/6fea62cde3e4c9eb32fb6d14dca99a56b65b6b2e_2_690x168.jpeg)黑头1019×249 113 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/6/f/6fea62cde3e4c9eb32fb6d14dca99a56b65b6b2e.jpeg)
+
+
+
+[![黑窝](images/91427f1e90b8053e1020fe06180eb2fa8cf5f729_2_690x224.jpeg)黑窝810×264 83.3 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/9/1/91427f1e90b8053e1020fe06180eb2fa8cf5f729.jpeg)
+
+
+
+[![黑猩猩](images/3f595544b686661c94e8ca1948b9b5ab78bce162_2_690x257.jpeg)黑猩猩937×350 158 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/3/f/3f595544b686661c94e8ca1948b9b5ab78bce162.jpeg)
+
+
+
+[![黑枣](images/748fb5fc8cae851dd73fbb9b409d6e2c1edf9799_2_690x270.jpeg)黑枣1111×436 183 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/7/4/748fb5fc8cae851dd73fbb9b409d6e2c1edf9799.jpeg)
+
+
+
+[![黄表纸](images/3979b8fa651bc8ea6c02d2706fb04845ab8542c4_2_690x216.jpeg)黄表纸710×223 63.8 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/3/9/3979b8fa651bc8ea6c02d2706fb04845ab8542c4.jpeg)
+
+
+
+[![黏糊](images/20269d3905ee5a465b27cd0751039757a5117ba5_2_690x325.jpeg)黏糊980×462 221 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/2/0/20269d3905ee5a465b27cd0751039757a5117ba5.jpeg)
+
+
+
+[![黄牛](images/b754f7a2d7dca6663349b2202ece99cfd14e0b1c_2_690x267.jpeg)黄牛992×384 176 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/b/7/b754f7a2d7dca6663349b2202ece99cfd14e0b1c.jpeg)
+
+
+
+[![黄牌](images/56ef3fba682994c6fb04bc7b879af8b13cb8fbe1_2_690x289.jpeg)黄牌921×387 187 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/5/6/56ef3fba682994c6fb04bc7b879af8b13cb8fbe1.jpeg)
+
+
+
+[![黄色](images/108cc096c6e8e4c5bc6fc30b93d3cca851282094_2_690x246.jpeg)黄色811×290 99.7 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/1/0/108cc096c6e8e4c5bc6fc30b93d3cca851282094.jpeg)
+
+
+
+[![黄页](images/793c6b0a4380f0e0673a7e2ec9191423081d7afb_2_690x210.jpeg)黄页1075×328 151 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/7/9/793c6b0a4380f0e0673a7e2ec9191423081d7afb.jpeg)
+
+
+
+[![黎锦](images/24a5047a72c11f464c4720756275e95d6e92ae76_2_690x225.jpeg)黎锦800×261 90 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/2/4/24a5047a72c11f464c4720756275e95d6e92ae76.jpeg)
+
+
+
+[![龙](images/3a0c1382a8bc62da5ecc34c58892f53793af1bbd_2_690x475.jpeg)龙913×629 276 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/3/a/3a0c1382a8bc62da5ecc34c58892f53793af1bbd.jpeg)
+
+
+
+[![龙胆紫](images/537e9d03f6ffa4e628ec8658c26404dc4eb05357_2_690x222.jpeg)龙胆紫942×304 159 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/5/3/537e9d03f6ffa4e628ec8658c26404dc4eb05357.jpeg)
+
+
+
+[![龙江剧](images/1af67102d5912da21b209c3f973a84e06f42cdd7_2_690x271.jpeg)龙江剧745×293 100 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/1/a/1af67102d5912da21b209c3f973a84e06f42cdd7.jpeg)
+
+
+
+[![龙山文化](images/ea4a4b7d503eeece02da1b12f0ac989792de4000_2_690x242.jpeg)龙山文化944×332 160 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/a/ea4a4b7d503eeece02da1b12f0ac989792de4000.jpeg)
+
+
+
+[![鼋鱼](images/a3d4c947638a4aae08cfe15138e895625cfcb52b_2_690x212.jpeg)鼋鱼926×285 115 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/a/3/a3d4c947638a4aae08cfe15138e895625cfcb52b.jpeg)
+
+
+
+[![黏液](images/ca4160bf0580bd915b7d6701897f0b91b8307113_2_690x196.jpeg)黏液827×235 77.7 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/c/a/ca4160bf0580bd915b7d6701897f0b91b8307113.jpeg)
+
+
+![齐奏](images/0727754ff417800b909c88441850d4421ee9252c.jpeg)
+
+[![黥](images/b359b9799c32466b5fe75a460f4d24d8606b8cd9_2_690x353.jpeg)黥758×388 144 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/b/3/b359b9799c32466b5fe75a460f4d24d8606b8cd9.jpeg)
+
+
+
+[![所](images/e4a0fc64a104ef9bdb25dc9c25778465a5a3cfd3_2_539x500.jpeg)所843×781 392 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/4/e4a0fc64a104ef9bdb25dc9c25778465a5a3cfd3.jpeg)
+
+
+![齆](images/2b8e5653f6695fb416fa74029974094dc811a49d.jpeg)
+![鼹鼠](images/e3f4ef3c7f8e6f2e24d1344ffa38358c3d6d9464.jpeg)
+
+-   **地名用字、人名用字** 第七版改为**用于地名、用于人名**
+
+-   ![VR](images/b555058d609b012b0c972423f2fae3585e2c0996.jpeg)
+    ![WC](images/b5907e9c92f21bb0ac05829326df92aacae09d82.jpeg)
+
+    [![处](images/32e0ecc8beeb23b5724731da1470a4c28f16ecd8_2_690x396.jpeg)处917×527 168 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/3/2/32e0ecc8beeb23b5724731da1470a4c28f16ecd8.jpeg)
+
+    
+
+    [![辞](images/dc201f462d0002f8112f95df38b72ea48f64cb35_2_479x500.jpeg)辞672×701 205 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/d/c/dc201f462d0002f8112f95df38b72ea48f64cb35.jpeg)
+
+    
+
+    [![概](images/7930b02512f3ee4addd1df154e88db75419e09ce_2_594x500.jpeg)概677×569 140 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/7/9/7930b02512f3ee4addd1df154e88db75419e09ce.jpeg)
+
+    
+    ![夯](images/9b4264ab0df7ad3783d63507dd04d31b50be708a.jpeg)
+
+    [![蜡](images/35f1feffd840e155d0b0f4bdc573e48697352b91_2_690x378.jpeg)蜡927×509 187 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/3/5/35f1feffd840e155d0b0f4bdc573e48697352b91.jpeg)
+
+    
+
+    [![MP3](images/27712d4e2dc91052d87e9f2420d0de7a99a1d11a_2_690x204.jpeg)MP3946×281 125 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/2/7/27712d4e2dc91052d87e9f2420d0de7a99a1d11a.jpeg)
+
+    
+
+    [![SOS](images/2da8258140697a0cfa98ad56f8cb696f2c9eac48_2_690x186.jpeg)SOS928×251 107 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/2/d/2da8258140697a0cfa98ad56f8cb696f2c9eac48.jpeg)
+
+    
+
+    [![T淋巴细胞](images/0165c7505e51a8dd52934450273db66c3a728d4d_2_690x411.jpeg)T淋巴细胞727×434 182 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/0/1/0165c7505e51a8dd52934450273db66c3a728d4d.jpeg)
+
+    
+    ![一流](images/a9104d026d579a6b08f90f24a588a8e1001af451.jpeg)
+
+    [![拿](images/5e3c86bb21559582c84b3c08d92eccd379e97a82_2_650x499.jpeg)拿747×574 272 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/5/e/5e3c86bb21559582c84b3c08d92eccd379e97a82.jpeg)
+
+    
+
+    [![一本正经](images/04f5d99b745fe1b7d86646a7fe753c04e326b6c6_2_690x216.jpeg)一本正经694×218 77.4 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/0/4/04f5d99b745fe1b7d86646a7fe753c04e326b6c6.jpeg)
+
+    
+    ![一表人才](images/f9cef77e79f12a5f0731d368084f64ed0e419af4.jpeg)
+
+    [![一波三折](images/0f8f678f17c765a50f67bdcc61c753bead2d2740_2_690x211.jpeg)一波三折824×252 101 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/0/f/0f8f678f17c765a50f67bdcc61c753bead2d2740.jpeg)
+
+    
+
+    [![一筹](images/13ff6887840b0797c0ca42f011eb5a45495f2b50_2_690x195.jpeg)一筹782×222 76.4 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/1/3/13ff6887840b0797c0ca42f011eb5a45495f2b50.jpeg)
+
+    
+
+    [![一定](images/8b0636faba7278546416d1231bd3add951a191fe_2_618x499.jpeg)一定766×619 298 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/8/b/8b0636faba7278546416d1231bd3add951a191fe.jpeg)
+
+    
+
+    [![一贯](images/c8737113aad9353b398e9fb9f85a9794f9738734_2_690x219.jpeg)一贯777×247 79.3 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/c/8/c8737113aad9353b398e9fb9f85a9794f9738734.jpeg)
+
+    
+
+    [![一刻](images/eae556e0b0ffa0ee0aa610401db88d62a2ec94f4_2_690x154.jpeg)一刻944×211 80.6 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/a/eae556e0b0ffa0ee0aa610401db88d62a2ec94f4.jpeg)
+
+    
+
+    [![一览](images/b76d45d40c7c8b0c289519019fad8d4c141e8e02_2_690x280.jpeg)一览842×342 135 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/b/7/b76d45d40c7c8b0c289519019fad8d4c141e8e02.jpeg)
+
+    
+
+    [![一叶蔽目](images/edbbf1c3fc3a353feff604753a3df949b791c41b_2_690x219.jpeg)一叶蔽目941×300 133 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/d/edbbf1c3fc3a353feff604753a3df949b791c41b.jpeg)
+
+    
+
+    [![一年生](images/5296e40edf94ebb7516363c7fcc1f8b543372681_2_690x226.jpeg)一年生939×308 143 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/5/2/5296e40edf94ebb7516363c7fcc1f8b543372681.jpeg)
+
+    
+
+    [![一诺千金](images/837d2ca565146046ba0eebdfa80474a8c111c450_2_690x178.jpeg)一诺千金936×242 109 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/8/3/837d2ca565146046ba0eebdfa80474a8c111c450.jpeg)
+
+    
+
+    [![一瞥](images/6639e2b84553b921967c73207334c8238121adf9_2_690x295.jpeg)一瞥744×319 118 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/6/6/6639e2b84553b921967c73207334c8238121adf9.jpeg)
+
+    
+
+    [![一曝十寒](images/c7d664ce8ade18d153374213dabc70a773bd4885_2_690x218.jpeg)一曝十寒925×293 126 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/c/7/c7d664ce8ade18d153374213dabc70a773bd4885.jpeg)
+
+    
+
+    [![一人得道](images/d82b061dbeab48adb88984f86b6c146b6cd9e6d5_2_690x290.jpeg)一人得道773×325 158 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/d/8/d82b061dbeab48adb88984f86b6c146b6cd9e6d5.jpeg)
+
+    
+    ![一事无成](images/1f2ecff191871d33ae7561f122a196e69c504c9e.jpeg)
+
+    [![一天](images/0fdb34b2e70fe6473273eb2d2cdf1c9a7292127c_2_690x342.jpeg)一天727×361 111 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/0/f/0fdb34b2e70fe6473273eb2d2cdf1c9a7292127c.jpeg)
+
+    
+
+    [![一头](images/2df45370f71d51f96de896c503d90f0033aaacbb_2_690x491.jpeg)一头912×650 293 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/2/d/2df45370f71d51f96de896c503d90f0033aaacbb.jpeg)
+
+    
+    ![一窝蜂](images/1fc426491260fc494000684a8eb2fac9ef8ed250.jpeg)
+    ![以](images/4e5434cddf429d8e5913ef9b0756bd05c33d030f.jpeg)
+
+    [![一站式](images/2a1e87238d2cd5b45c91d3aaa621913fbde38b90_2_690x212.jpeg)一站式782×241 82.6 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/2/a/2a1e87238d2cd5b45c91d3aaa621913fbde38b90.jpeg)
+
+    
+
+    [![一阵风](images/cd41edf40210c7277118f15941e24852ac8416a8_2_690x285.jpeg)一阵风728×301 107 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/c/d/cd41edf40210c7277118f15941e24852ac8416a8.jpeg)
+
+    
+
+    [![一面](images/ed87f34616291755e1122179c3f2ae27e64dc0a4_2_690x340.jpeg)一面1003×495 206 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/d/ed87f34616291755e1122179c3f2ae27e64dc0a4.jpeg)
+
+
+    ![一马平川](images/2de3c985015a5c527fb0f4e215fd2b3a45c47dd9.jpeg)
+
+![万世](images/4cb23fa0dd038755f98335fd01b1f41449e26081.jpeg)
+
+[![抗日战争](images/452f8fc7defff0b14fd6bd5a22a37ee474277356_2_690x324.jpeg)抗日战争724×340 192 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/4/5/452f8fc7defff0b14fd6bd5a22a37ee474277356.jpeg)
+
+
+![七绝](images/29ba66c4bbc41848fa19c5a16529519d1c8240c0.jpeg)
+
+[![七律](images/d49df1616e1bbcaf0a5ac34d28c64ea7f708e540_2_690x220.jpeg)七律760×243 71 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/d/4/d49df1616e1bbcaf0a5ac34d28c64ea7f708e540.jpeg)
+
+
+
+[![七七](images/cbc61b9795f40dbb511cbb82a345aa5c824bea16_2_690x260.jpeg)七七728×275 84.8 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/c/b/cbc61b9795f40dbb511cbb82a345aa5c824bea16.jpeg)
+
+
+
+[![七七事变](images/b98c640a4a347d47b95c6593660767c07ab99628_2_690x398.jpeg)七七事变736×425 211 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/b/9/b98c640a4a347d47b95c6593660767c07ab99628.jpeg)
+
+
+
+[![七一](images/e5865f321b235bc8facdd7a16eb931c32e99cfa2_2_690x375.jpeg)七一760×414 172 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/5/e5865f321b235bc8facdd7a16eb931c32e99cfa2.jpeg)
+
+
+![万能](images/57b977172030d08082b2807d4a97906147e1d05d.jpeg)
+
+[![万千](images/310ef5474f233ce943c4631edc136b6aeb590bf2_2_690x310.jpeg)万千711×320 106 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/3/1/310ef5474f233ce943c4631edc136b6aeb590bf2.jpeg)
+
+
+
+[![万人空巷](images/ed71a71cc27ca3663aa1f82b4a47abccd1a94900_2_690x186.jpeg)万人空巷893×242 108 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/e/d/ed71a71cc27ca3663aa1f82b4a47abccd1a94900.jpeg)
+
+
+![万俟](images/b645a126b869ff8f90dfffbb47279bbeb3ac1cd3.jpeg)
+![万无一失](images/3c4d4582ca824b6456816882b1d1bca95a920812.jpeg)
+
+[![万幸](images/073e3d4f8734aba46ab0015f60a94538a8e9df95_2_690x211.jpeg)万幸815×250 89.2 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/0/7/073e3d4f8734aba46ab0015f60a94538a8e9df95.jpeg)
+
+
+
+[![万事](images/f71ec4f25c528cf194a2153661048b1d0a02bab3_2_690x225.jpeg)万事868×284 95.3 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/f/7/f71ec4f25c528cf194a2153661048b1d0a02bab3.jpeg)
+
+
+
+[![万事俱务](images/ecf1d96c79cc94eb0dabf6c192f3363c085f3f21_2_690x209.jpeg)](https://forumcdn.471901.xyz/uploads/default/original/3X/e/c/ecf1d96c79cc94eb0dabf6c192f3363c085f3f21.jpeg)
+
+[![三段论](images/82bf3900ed331108bc3d0622d4fb161ac4ad4ab4_2_690x294.jpeg)三段论833×355 168 KB](https://forumcdn.471901.xyz/uploads/default/original/3X/8/2/82bf3900ed331108bc3d0622d4fb161ac4ad4ab4.jpeg)
+
+
+类似 错误，正则查找`<span class="lya">形</span>([式状成容势态])` 替换 `形\1`
+（切勿用全部替换）
+
+三段论
+集体舞
+矛盾
+便函
+三角
+中
+形
+伞
+冠
+刀
+剪
+叶
+垄
+斗
+木马
+梯
+浮箱
+牌坊
+牙
+盆
+盔
+盘
+管
+耳
+花
+苗
+角
+轮
+钩子
+铃
+锁
+门
+鞭
+鼓
+势如破竹
+局
+成因
+成见
+成风
+生成
+直
+
+可能还有部分形开头的，匹配项太多了，我只是选了 式状成容势态 这几个。
+
+**`<span class="lya">动</span>物`**
+
+脑
+腔
+体腔
+腔子
+爪子
+环节动物
+
+</details>
+
